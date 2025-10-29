@@ -1,2 +1,4 @@
+Hi
+New line
 testing
 2nd line
